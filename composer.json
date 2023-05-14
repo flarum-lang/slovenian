@@ -1,20 +1,20 @@
 {
-	"name": "flarum-lang/xxish",
+	"name": "flarum-lang/slovenian",
 	"type": "flarum-extension",
-	"description": "Xxish language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/xxish",
+	"description": "Slovenian language pack for Flarum.",
+	"homepage": "https://github.com/flarum-lang/slovenian",
 	"keywords": [
 		"locale",
 		"flarum",
 		"flarum-locale",
-		"xx-locale",
-		"xxish-locale",
-		"xxish"
+		"sl-locale",
+		"slovenian-locale",
+		"slovenian"
 	],
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/flarum-lang/xxish/issues",
-		"source": "https://github.com/flarum-lang/xxish"
+		"issues": "https://github.com/flarum-lang/slovenian/issues",
+		"source": "https://github.com/flarum-lang/slovenian"
 	},
 	"require": {
 		"flarum/core": "^1.6"
@@ -23,7 +23,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Xxish",
+			"title": "Slovenian",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",
@@ -32,8 +32,8 @@
 			}
 		},
 		"flarum-locale": {
-			"code": "xx",
-			"title": "Xxish"
+			"code": "sl",
+			"title": "Slovenian"
 		},
 		"extiverse": {
 			"discuss": ""
