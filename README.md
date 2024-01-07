@@ -74,6 +74,12 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`littlecxm/flarum-reply-to-see`](https://github.com/littlecxm/flarum-reply-to-see) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/littlecxm-reply-to-see/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/littlecxm-reply-to-see/sl/) |
+| [`malago/flarum-ads`](https://github.com/malago86/flarum-ads) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/malago-ads/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-ads/sl/) |
+| [`malago/flarum-ext-fancybox`](https://github.com/malago86/flarum-ext-fancybox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/malago-fancybox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-fancybox/sl/) |
+| [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/michaelbelgium-profile-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/michaelbelgium-profile-views/sl/) |
+| [`nearata/flarum-ext-copy-code-to-clipboard`](https://github.com/Nearata/flarum-ext-copy-code-to-clipboard) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/nearata-copy-code-to-clipboard/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nearata-copy-code-to-clipboard/sl/) |
+| [`nearata/flarum-ext-signup-confirm-password`](https://github.com/Nearata/flarum-ext-signup-confirm-password) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/nearata-signup-confirm-password/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nearata-signup-confirm-password/sl/) |
 
 <!-- various-extensions-list-stop -->
 
