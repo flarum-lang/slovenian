@@ -12,7 +12,7 @@ core:
     permissions_controls:
       signup_closed_button: Zaprto
     settings:
-      saved_message: 'Spremembe so bile shranjene'
+      saved_message: 'Spremembe so bile shranjene.'
     users:
       grid:
         columns:
@@ -66,15 +66,53 @@ core:
       number_tooltip: 'Objava #{number}'
     post_scrubber:
       now_link: Pravkar
+      unread_text: '{count} neprebranih'
+    security:
+      last_activity: 'Zadnja dejavnost'
+      new_access_token_modal:
+        title_placeholder: Naslov
+    sign_up:
+      log_in_text: 'Že imate račun? <a>Prijavite se</a>'
+      welcome_text: 'Dobrodošli, {username}!'
+    user:
+      online_text: Prisotni
+    user_email_confirmation:
+      sent_message: Poslano
   group:
     guest: Gost
     guests: Gostje
+  lib:
+    alert:
+      dismiss_a11y_label: 'Opust opozorilo'
+    badge:
+      hidden_tooltip: Skrit
+    edit_user:
+      set_password_label: 'Nastavi novo geslo'
+    error:
+      generic_message: 'Oops! Nekaj je šlo narobe. Prosim, osvežite stran in poizkusite ponovno.'
+      permission_denied_message: 'Nimate dovoljenja za to.'
+      rate_limit_exceeded_message: 'Malo prezgodaj. Poizkusite znova čez nekaj sekund.'
+      render_failed_message: 'Oprostite, med prikazovanjem te vsebine je prišlo do napake. Če ste uporabnik, poskusite znova pozneje. Če ste skrbnik, poglejte v dnevniške datoteke Flarum za več informacij.'
+    modal:
+      close: Zapri
+    series:
+      three_text: '{first}, {second}, in {third}'
+      two_text: '{first} in {second}'
   ref:
     all_discussions: 'Vsi pogovori'
+    change_email: 'Spremeni Epoštni naslov'
+    change_password: 'Spremeni geslo'
+    confirm_email: 'Potrdi Epošto'
+    confirm_password: 'Potrdi geslo'
+    confirmation_email_sent: 'Poslali smo potrditveno e-poštno sporočilo na {email}. Če ne prispe kmalu, preverite mapo z vsiljeno pošto.'
     discussions: Pogovori
+    edit: Urejanje
+    email: Epošta
     load_more: 'Naloži več'
     log_in: 'Prijavi se'
     log_out: 'Odjavi se'
+    mark_all_as_read: 'Označi vse kot prebrano'
+    never: Nikoli
     next_page: 'Naslednja stran'
     notifications: Obvestila
     okay: Vredu
@@ -87,9 +125,28 @@ core:
     reset_your_password: 'Ponastavitev gesla'
     save_changes: 'Shrani spremembe'
     search_users: 'Iskanje uporabnikov'
+    security: Varnost
     settings: Nastavitve
+    sign_up: 'Prijavite se'
     start_a_discussion: 'Začni pogovor'
     username: 'Uporabniško ime'
     users: Uporabniki
     write_a_reply: 'Napiši odgovor...'
     you: Ti
+  views:
+    confirm_email:
+      text: 'Kliknite spodnji gumb, da potrdite e-poštni naslov vašega računa.'
+    error:
+      csrf_token_mismatch: 'Predolgo ste bili neaktivni.'
+      csrf_token_mismatch_return_link: 'Pojdite nazaj, da poskusite znova'
+      invalid_confirmation_token: 'Ta potrditvena povezava je bila že uporabljena ali pa je neveljavna.'
+      not_authenticated: 'Nimate dovoljenja za dostop do te strani. Po prijavi poskusite znova.'
+      not_found: 'Strani, ki ste jo zahtevali, ni bilo mogoče najti.'
+      not_found_return_link: 'Vrni se na {forum}'
+      permission_denied: 'Nimate dovoljenja za dostop do te strani.'
+      unknown: 'Med poskusom nalaganja te strani je prišlo do napake.'
+    log_out:
+      log_out_confirmation: 'Ali ste prepričani, da se želite odjaviti s {forum}?'
+    reset_password:
+      confirm_password_label: 'Potrditev novega gesla'
+      new_password_label: 'Novo geslo'
