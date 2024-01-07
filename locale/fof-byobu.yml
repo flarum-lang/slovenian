@@ -15,3 +15,17 @@ fof-byobu:
       submit: Vredu
     composer_private_discussion:
       submit_button: 'Objavi zasebni klepet'
+      title_placeholder: 'Naslov zasebnega klepeta'
+    modal:
+      help:
+        update_recipients: 'Ta klepetbo viden samo uporabnikom, ki jih izberete tukaj.'
+      titles:
+        add_recipients: 'Dodaj prejemnike v klepet'
+    nav:
+      nav_item: 'Zasebni klepet'
+      start_button: 'Pogovorite se zasebno'
+    user:
+      byobu_link: 'Zasebni pogovori'
+      dropdown_label: 'Zasebni pogovori'
+      settings:
+        block_pd: 'Blokiraj zasebne pogovore'
