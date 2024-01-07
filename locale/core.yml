@@ -44,8 +44,13 @@ core:
     composer_edit:
       discard_confirmation: 'Spremembe niso shranjene. Jih želite zavreči?'
       post_link: 'Objava #{number} v {discussion}'
+    composer_reply:
+      discard_confirmation: 'Niste objavili svojega odgovora. Ali ga želite zavreči?'
+      posted_message: 'Vaš odgovor je objavljen.'
+      submit_button: 'Objavi odgovor'
     discussion_controls:
       cannot_reply_text: 'Nimate pravic za sodelovanje v tej temi.'
+      log_in_to_reply_button: 'Prijavite se za odgovor'
     discussion_list:
       empty_text: 'Zdi se, da tukaj ni nobene razprave.'
       replied_text: '{username} odgovoril {ago}'
