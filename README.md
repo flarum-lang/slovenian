@@ -54,6 +54,18 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/sl/) |
+| [`flarum/bbcode`](https://github.com/flarum/bbcode) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-bbcode/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-bbcode/sl/) |
+| [`flarum/emoji`](https://github.com/flarum/emoji) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-emoji/sl/) |
+| [`flarum/flags`](https://github.com/flarum/flags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/sl/) |
+| [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/sl/) |
+| [`flarum/lock`](https://github.com/flarum/lock) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-lock/sl/) |
+| [`flarum/markdown`](https://github.com/flarum/markdown) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-markdown/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-markdown/sl/) |
+| [`flarum/mentions`](https://github.com/flarum/mentions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-mentions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-mentions/sl/) |
+| [`flarum/nicknames`](https://github.com/flarum/nicknames) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-nicknames/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-nicknames/sl/) |
+| [`flarum/sticky`](https://github.com/flarum/sticky) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-sticky/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-sticky/sl/) |
+| [`flarum/subscriptions`](https://github.com/flarum/subscriptions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-subscriptions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-subscriptions/sl/) |
+| [`flarum/tags`](https://github.com/flarum/tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarum-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-tags/sl/) |
 
 <!-- flarum-extensions-list-stop -->
 
@@ -64,6 +76,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/fof-byobu/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-byobu/sl/) |
 
 <!-- fof-extensions-list-stop -->
 
@@ -74,6 +87,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`flarumite/simple-discussion-views`](https://github.com/flarumite/simple-discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarumite-simple-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarumite-simple-discussion-views/sl/) |
 | [`littlecxm/flarum-reply-to-see`](https://github.com/littlecxm/flarum-reply-to-see) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/littlecxm-reply-to-see/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/littlecxm-reply-to-see/sl/) |
 | [`malago/flarum-ads`](https://github.com/malago86/flarum-ads) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/malago-ads/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-ads/sl/) |
 | [`malago/flarum-ext-fancybox`](https://github.com/malago86/flarum-ext-fancybox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/malago-fancybox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-fancybox/sl/) |
