@@ -6,6 +6,11 @@ core:
   admin:
     appearance:
       dark_mode_label: 'Temni način'
+    basics:
+      default_language_heading: 'Privzet jezik'
+      description: 'Nastavite naslov foruma, jezik in druge osnovne nastavitve.'
+      display_name_heading: 'Prikazno ime uporabnika'
+      forum_description_heading: 'Opis foruma'
     permissions:
       edit_posts_label: 'Urejanje objav'
       sign_up_label: 'Prijavi se'
@@ -16,6 +21,8 @@ core:
     users:
       grid:
         columns:
+          join_time:
+            title: Pridružen
           username:
             profile_link_tooltip: 'Ogled {username} profila'
       pagination:
@@ -51,6 +58,7 @@ core:
       search_placeholder: 'Iskanje po forumu'
       search_role_label: 'Iskanje po forumu'
     index:
+      mark_all_as_read_confirmation: 'Ali ste prepričani, da želite vse pogovore označiti kot prebrane?'
       refresh_tooltip: Osveži
     log_in:
       forgot_password_link: 'Ste pozabili geslo?'
@@ -59,6 +67,7 @@ core:
       sign_up_text: 'Še nimate računa? <a>Prijavite se</a>'
       username_or_email_placeholder: 'Uporabniško ime ali epoštni naslov'
     notifications:
+      empty_text: 'Ni obvestil'
       mark_as_read_tooltip: 'Označi kot prebrano'
       toggle_dropdown_accessible_label: 'Ogled obvestil'
     post:
@@ -75,7 +84,8 @@ core:
       log_in_text: 'Že imate račun? <a>Prijavite se</a>'
       welcome_text: 'Dobrodošli, {username}!'
     user:
-      online_text: Prisotni
+      joined_date_text: 'Pridružen {ago}'
+      online_text: 'Trenutno prisoten'
     user_email_confirmation:
       sent_message: Poslano
   group:
