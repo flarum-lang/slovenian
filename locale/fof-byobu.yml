@@ -23,7 +23,7 @@ fof-byobu:
         add_recipients: 'Dodaj prejemnike v klepet'
     nav:
       nav_item: 'Zasebni klepet'
-      start_button: 'Pogovorite se zasebno'
+      start_button: 'Novo zasebno sporočilo'
     user:
       byobu_link: 'Zasebni pogovori'
       dropdown_label: 'Zasebni pogovori'
