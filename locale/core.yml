@@ -30,7 +30,7 @@ core:
         discussion: Pogovor
     permissions:
       edit_posts_label: 'Urejanje objav'
-      sign_up_label: 'Prijavi se'
+      sign_up_label: Registracija
       start_discussions_label: 'Nove teme'
     permissions_controls:
       signup_closed_button: Zaprto
@@ -62,13 +62,13 @@ core:
       close_tooltip: Zapri
       preview_tooltip: Predogled
     composer_discussion:
-      body_placeholder: 'Napiši objavo...'
+      body_placeholder: 'Napiši odgovor ...'
       discard_confirmation: 'Niste shranili svoje objave. Ali jo želite zavreči?'
-      submit_button: Objavi
+      submit_button: 'Objavi odgovor'
       title_placeholder: 'Naslov teme'
     composer_edit:
       discard_confirmation: 'Spremembe niso shranjene. Jih želite zavreči?'
-      post_link: 'Objava #{number} v {discussion}'
+      post_link: 'Odgovor #{number} v {discussion}'
     composer_reply:
       discard_confirmation: 'Niste objavili svojega odgovora. Ali ga želite zavreči?'
       posted_message: 'Vaš odgovor je objavljen.'
@@ -78,7 +78,7 @@ core:
       log_in_to_reply_button: 'Vpišite se za odgovor'
       reply_button: '=> core.ref.reply'
     discussion_list:
-      empty_text: 'Zdi se, da tukaj ni nobene razprave.'
+      empty_text: 'Izgleda, da tukaj ni nobene razprave.'
       replied_text: '{username} odgovoril {ago}'
       started_text: '{username} začel {ago}'
     forgot_password:
@@ -86,11 +86,12 @@ core:
       text: 'Vpišite svoj epoštni naslov na katerega vam bomo poslali povezavo za ponastavitev gesla.'
       title: 'Pozabljeno geslo'
     header:
+      profile_button: 'Uporabniški profil'
       search_placeholder: 'Iskanje po forumu'
       search_role_label: 'Iskanje po forumu'
     index:
       cannot_start_discussion_button: 'Ne morete odpreti nove teme'
-      mark_all_as_read_confirmation: 'Ali ste prepričani, da želite vse pogovore označiti kot prebrane?'
+      mark_all_as_read_confirmation: 'Ali ste prepričani, da želite vse teme označiti kot prebrane?'
       refresh_tooltip: Osveži
     index_sort:
       latest_button: 'Najnovejši odgovori'
@@ -108,10 +109,13 @@ core:
       toggle_dropdown_accessible_label: 'Ogled obvestil'
     post:
       edited_tooltip: '{username} urejal {ago}'
-      number_tooltip: 'Objava #{number}'
+      number_tooltip: 'Odgovor #{number}'
     post_scrubber:
       now_link: Pravkar
+      original_post_link: 'Prva objava'
       unread_text: '{count} neprebranih'
+    search:
+      all_discussions_button: 'Med vsemi temami išči "{query}"'
     security:
       last_activity: 'Zadnja dejavnost'
       new_access_token_modal:
@@ -153,13 +157,13 @@ core:
     confirm_email: 'Potrdi Epošto'
     confirm_password: 'Potrdi geslo'
     confirmation_email_sent: 'Poslali smo potrditveno e-poštno sporočilo na {email}. Če ne prispe kmalu, preverite mapo z vsiljeno pošto.'
-    discussions: Pogovori
+    discussions: Teme
     edit: Uredi
     edit_user: 'Uredi uporabnika'
     email: Epošta
     load_more: 'Naloži več'
     loading: Nalagam...
-    log_in: 'Vpiši se'
+    log_in: Prijava
     log_out: Odjava
     mark_all_as_read: 'Označi vse kot prebrano'
     never: Nikoli

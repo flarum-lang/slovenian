@@ -3,6 +3,22 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 flarum-flags:
+  admin:
+    settings:
+      flag_own_posts_label: 'Omogoči uporabnikom, da označijo svoje odgovore kot neprimerne'
   forum:
     flag_post:
-      confirmation_message: 'Hvala, ker ste označili to objavo. Naši moderatorji bodo to preučili.'
+      confirmation_message: 'Hvala, ker ste označili ta odgovor. Naši moderatorji ga bodo preučili.'
+      reason_inappropriate_label: 'Neprimerna vsebina'
+      reason_inappropriate_text: 'Odgovor je žaljiv, zlonameren ali krši naše <a>smernice skupnosti</a>.'
+      reason_off_topic_label: 'Vsebina ne sodi pod to temo'
+      reason_off_topic_text: 'Odgovor ne sodi pod to temo. Potrebno ga je prestaviti.'
+      reason_other_label: 'Drugo (navedite)'
+      reason_spam_label: Reklama
+      reason_spam_text: 'Odgovor je reklama.'
+    post:
+      dismiss_flag_button: 'Prekliči neprimernost odgovora'
+    post_controls:
+      flag_button: 'Neprimeren odgovor'
+  ref:
+    flag_post: 'Označi odgovor kot neprimeren'
