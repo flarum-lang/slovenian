@@ -5,6 +5,9 @@
 core:
   admin:
     appearance:
+      colors_heading: Barve
+      colors_primary_label: 'Primarna barva'
+      colors_secondary_label: 'Sekundarna barva'
       dark_mode_label: 'Temni način'
     basics:
       default_language_heading: 'Privzet jezik'
