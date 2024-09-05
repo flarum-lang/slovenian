@@ -90,6 +90,8 @@ core:
     index:
       mark_all_as_read_confirmation: 'Ali ste prepričani, da želite vse pogovore označiti kot prebrane?'
       refresh_tooltip: Osveži
+    index_sort:
+      latest_button: Najnovejše
     log_in:
       forgot_password_link: 'Ste pozabili geslo?'
       invalid_login_message: 'Vaši podatki za prijavo so napačni.'
