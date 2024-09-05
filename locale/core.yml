@@ -31,6 +31,7 @@ core:
     permissions:
       edit_posts_label: 'Urejanje objav'
       sign_up_label: 'Prijavi se'
+      start_discussions_label: 'Nove teme'
     permissions_controls:
       signup_closed_button: Zaprto
     settings:
@@ -88,10 +89,13 @@ core:
       search_placeholder: 'Iskanje po forumu'
       search_role_label: 'Iskanje po forumu'
     index:
+      cannot_start_discussion_button: 'Ne morete odpreti nove teme'
       mark_all_as_read_confirmation: 'Ali ste prepričani, da želite vse pogovore označiti kot prebrane?'
       refresh_tooltip: Osveži
     index_sort:
-      latest_button: Najnovejše
+      latest_button: 'Najnovejši odgovori'
+      newest_button: 'Nove teme'
+      top_button: 'Največ odgovorov'
     log_in:
       forgot_password_link: 'Ste pozabili geslo?'
       invalid_login_message: 'Vaši podatki za prijavo so napačni.'
@@ -142,7 +146,7 @@ core:
       three_text: '{first}, {second}, in {third}'
       two_text: '{first} in {second}'
   ref:
-    all_discussions: 'Vsi pogovori'
+    all_discussions: 'Vse teme'
     change_email: 'Spremeni Epoštni naslov'
     change_password: 'Spremeni geslo'
     color: Barva
@@ -174,7 +178,7 @@ core:
     security: Varnost
     settings: Nastavitve
     sign_up: 'Prijavite se'
-    start_a_discussion: 'Začni pogovor'
+    start_a_discussion: 'Nova tema'
     username: 'Uporabniško ime'
     users: Uporabniki
     write_a_reply: 'Napiši odgovor...'
