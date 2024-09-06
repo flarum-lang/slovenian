@@ -96,6 +96,7 @@ core:
     index_sort:
       latest_button: 'Najnovejši odgovori'
       newest_button: 'Nove teme'
+      oldest_button: Najstarejši
       top_button: 'Največ odgovorov'
     log_in:
       forgot_password_link: 'Ste pozabili geslo?'
