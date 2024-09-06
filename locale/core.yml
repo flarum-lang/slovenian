@@ -90,9 +90,11 @@ core:
       search_placeholder: 'Iskanje po forumu'
       search_role_label: 'Iskanje po forumu'
     index:
+      all_discussions_link: 'Vse teme'
       cannot_start_discussion_button: 'Ne morete odpreti nove teme'
       mark_all_as_read_confirmation: 'Ali ste prepričani, da želite vse teme označiti kot prebrane?'
       refresh_tooltip: Osveži
+      start_discussion_button: 'Nova tema'
     index_sort:
       latest_button: 'Najnovejši odgovori'
       newest_button: 'Nove teme'
