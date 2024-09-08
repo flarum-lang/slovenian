@@ -77,6 +77,7 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/fof-byobu/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-byobu/sl/) |
+| [`fof/upload`](https://github.com/FriendsOfFlarum/upload) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-upload/sl/) |
 
 <!-- fof-extensions-list-stop -->
 
