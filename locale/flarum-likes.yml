@@ -15,14 +15,14 @@ flarum-likes:
       post_liked_text: '{username} je všečkal tvojo objavo'
     post:
       like_link: Všečkaj
-      liked_by_self_text: '{users} je všeč.'
-      liked_by_text: '{count, plural, one {{users} je všečkalo to} other {{users} je všečkalo to}}.'
+      liked_by_self_text: '{users} si všečkal.'
+      liked_by_text: '{count, plural, one {{users} je všečkal} other {{users} je všečkalo}}.'
       others_link: '=> core.ref.some_others'
       unlike_link: Odvšečkaj
       you_text: '=> core.ref.you'
     post_likes:
       load_more_button: '=> core.ref.load_more'
-      title: 'Uporabniki, ki so všečkali to'
+      title: 'Uporabniki, ki so všečkali'
     settings:
       notify_post_liked_label: 'Nekdo je všečkal eno mojih objav'
     user:
