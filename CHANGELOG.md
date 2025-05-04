@@ -28,6 +28,7 @@ CHANGELOG
 * [`flarum/tags`](https://github.com/flarum/tags)
 * [`flarumite/simple-discussion-views`](https://github.com/flarumite/simple-discussion-views)
 * [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
 * [`littlecxm/flarum-reply-to-see`](https://github.com/littlecxm/flarum-reply-to-see)
 * [`malago/flarum-ads`](https://github.com/malago86/flarum-ads)
