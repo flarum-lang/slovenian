@@ -77,6 +77,7 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/fof-byobu/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-byobu/sl/) |
+| [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/fof-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-discussion-views/sl/) |
 | [`fof/upload`](https://github.com/FriendsOfFlarum/upload) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-upload/sl/) |
 
 <!-- fof-extensions-list-stop -->
@@ -89,7 +90,6 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`clarkwinkelmann/flarum-ext-composer-page`](https://github.com/clarkwinkelmann/flarum-ext-composer-page) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/clarkwinkelmann-composer-page/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-composer-page/sl/) |
-| [`flarumite/simple-discussion-views`](https://github.com/flarumite/simple-discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/flarumite-simple-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarumite-simple-discussion-views/sl/) |
 | [`littlecxm/flarum-reply-to-see`](https://github.com/littlecxm/flarum-reply-to-see) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/littlecxm-reply-to-see/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/littlecxm-reply-to-see/sl/) |
 | [`malago/flarum-ads`](https://github.com/malago86/flarum-ads) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/malago-ads/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-ads/sl/) |
 | [`malago/flarum-ext-fancybox`](https://github.com/malago86/flarum-ext-fancybox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/sl/malago-fancybox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-fancybox/sl/) |
