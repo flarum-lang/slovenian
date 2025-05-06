@@ -237,6 +237,8 @@ core:
             title: Skupine
           join_time:
             title: Pridružen
+          user_actions:
+            title: Dejanja
           user_id:
             title: ID
           username:
@@ -373,7 +375,7 @@ core:
       title: '=> core.ref.log_in'
       username_or_email_placeholder: 'Uporabniško ime ali e-pošta'
     notifications:
-      delete_all_confirm: 'Ali ste prepričani, da želite izbrisati vse obvestila? Ta akcija je nepovratna.'
+      delete_all_confirm: 'Ali ste prepričani, da želite izbrisati vsa obvestila? Tega dejanja ni mogoče razveljaviti.'
       delete_all_tooltip: 'Izbriši vsa obvestila'
       discussion_renamed_text: '{username} je spremenil naslov'
       empty_text: 'Ni obvestil'
@@ -508,6 +510,9 @@ core:
       hidden_tooltip: Skrito
     data_segment:
       label: '{label}:'
+    datetime_formats:
+      humanTimeLong: ll
+      humanTimeShort: DD.MM
     debug_button: Debug
     dropdown:
       toggle_dropdown_accessible_label: 'Preklopi spustni meni'
