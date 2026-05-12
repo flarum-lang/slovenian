@@ -27,5 +27,6 @@ CHANGELOG
 * [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
 
 
