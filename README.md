@@ -88,6 +88,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/sl/michaelbelgium-profile-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/michaelbelgium-profile-views/sl/) |
 
 <!-- various-extensions-list-stop -->
 
